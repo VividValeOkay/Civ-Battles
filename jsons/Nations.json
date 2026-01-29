@@ -39,10 +39,10 @@
 		"leaderName": "Gregory",
 
         "declaringWar": "You shall stain this land no longer with your vileness! To arms, my countrymen. We ride to war!",
-		"attacked": "Traitorous man! The Celtic peoples will not stand for such wanton abuse and slander - I shall have your balls!",
+		"attacked": "Traitorous man! The Green peoples will not stand for such wanton abuse and slander - I shall have your balls!",
 		"defeated": "Vile ruler, know you have won this war in name alone. Your cities lie buried and your troops defeated. I have my own victory.",
 		"denounced": "Don't forget who you're dealing with. Arrogant moves can get you in danger.",
-		"introduction": "I am Boudicca, Queen of the Celts. Let no-one underestimate me!",
+		"introduction": "I am Gregory, King of the Greens. Let no-one underestimate me!",
 		"tradeRequest": "Let us join our forces together and reap the rewards.",
 		"neutralHello": "Good day.",
 		"hateHello": "Well?",
@@ -51,5 +51,23 @@
 		"innerColor": [255,255,255],
 		"uniqueName": "Green Team",
 		"cities": ["Green Capital","Green City","Greentown","Green Square","Greenville","Greendale","Greenton","Greenograd","Greencliff","Green Bay","Green Village"],
+	},
+	{
+		"name": "Yellow Sultanate",
+		"leaderName": "Yahia",
+
+        "declaringWar": "You shall stain this land no longer with your vileness! To arms, my countrymen. We ride to war!",
+		"attacked": "Traitorous man! The Green peoples will not stand for such wanton abuse and slander - I shall have your balls!",
+		"defeated": "Vile ruler, know you have won this war in name alone. Your cities lie buried and your troops defeated. I have my own victory.",
+		"denounced": "Don't forget who you're dealing with. Arrogant moves can get you in danger.",
+		"introduction": "I am Gregory, King of the Greens. Let no-one underestimate me!",
+		"tradeRequest": "Let us join our forces together and reap the rewards.",
+		"neutralHello": "Good day.",
+		"hateHello": "Well?",
+
+		"outerColor": [0, 255, 0],
+		"innerColor": [255,255,255],
+		"uniqueName": "Yellow Team",
+		"cities": ["Yellow Capital","Yellow City","Yellowtown","Yellow Square","Yellowville","Yellowdale","Yellowton","Yellowograd","Yellowcliff","Yellow Bay","Yellow Village"],
 	},
 ]
