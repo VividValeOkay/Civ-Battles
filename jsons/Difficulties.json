@@ -142,7 +142,7 @@
 		"aiUnitMaintenanceModifier": 0.8,
 		"aiUnitSupplyModifier": 0.3,
 		"aiFreeTechs": [""],
-		"aiMajorCivBonusStartingUnits": ["],
+		"aiMajorCivBonusStartingUnits": [],
 		"aiCityStateBonusStartingUnits": [],
 		"aiUnhappinessModifier": 0.9,
 		"aisExchangeTechs": true,
