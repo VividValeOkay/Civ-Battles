@@ -14,7 +14,7 @@
 
 		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
 
-		"outerColor": [27,53,63],
+		"outerColor": [204,0,0],
 		"innerColor": [255,255,255],
 		"uniqueName": "Red Team",
 		"cities": ["Red Capital","Red City","Redtown","Red Square","Redville","Reddale","Redton","Redograd","Redcliff","Red Bay","Red Village"],
