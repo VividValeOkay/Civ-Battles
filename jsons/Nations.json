@@ -47,7 +47,7 @@
 		"neutralHello": "Good day.",
 		"hateHello": "Well?",
 
-		"outerColor": [0, 255, 0],
+		"outerColor": [0,255,0],
 		"innerColor": [255,255,255],
 		"uniqueName": "Green Team",
 		"cities": ["Green Capital","Green City","Greentown","Green Square","Greenville","Greendale","Greenton","Greenograd","Greencliff","Green Bay","Green Village"],
@@ -65,7 +65,7 @@
 		"neutralHello": "Good day.",
 		"hateHello": "Well?",
 
-		"outerColor": [0, 255, 0],
+		"outerColor": [255,255,0],
 		"innerColor": [255,255,255],
 		"uniqueName": "Yellow Team",
 		"cities": ["Yellow Capital","Yellow City","Yellowtown","Yellow Square","Yellowville","Yellowdale","Yellowton","Yellowograd","Yellowcliff","Yellow Bay","Yellow Village"],
