@@ -47,7 +47,7 @@
 		"neutralHello": "Good day.",
 		"hateHello": "Well?",
 
-		"outerColor": [0,0,255],
+		"outerColor": [0, 255, 0],
 		"innerColor": [255,255,255],
 		"uniqueName": "Green Team",
 		"cities": ["Green Capital","Green City","Greentown","Green Square","Greenville","Greendale","Greenton","Greenograd","Greencliff","Green Bay","Green Village"],
