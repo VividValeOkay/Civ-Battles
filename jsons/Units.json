@@ -22,5 +22,6 @@
 		"movement": 1,
 		"strength": 10,
 		"requiredTech": "Civilization",
+		"uniques": ["Consumes [1] [Wood]"],
 	}		
 ]
