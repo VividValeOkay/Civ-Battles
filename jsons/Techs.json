@@ -34,7 +34,7 @@
     "buildingCost": 100,
     "techs": [
         {
-          "name": "Irrigation",
+          "name": "Calendar",
           "row": 2,
           "prerequisites": ["Gathering"],
           "quote": "With our understanding in gathering, we can now discover more foods to support our populus",
