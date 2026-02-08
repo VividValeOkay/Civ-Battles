@@ -9,7 +9,7 @@
 	},
 	{
 		"name": "Clubbers",
-		"unitType" "Blunt",
+		"unitType": "Blunt",
 		"cost": 15,
 		"movement": 1,
 		"strength": 10,
