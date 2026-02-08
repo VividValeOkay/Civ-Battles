@@ -2,7 +2,7 @@
   {
     "name": "Apples",
     "resourceType": "Bonus",
-    "terrainsCanBeFoundOn": ["Grassland","Hill"],
+    "terrainsCanBeFoundOn": ["Grassland","Forest"],
     "food": 1,
     "revealedBy": "Gathering",
     "uniques": ["Generated with weight [8] <in [Grassland] tiles>"],
@@ -10,7 +10,7 @@
   {
     "name": "Oranges",
     "resourceType": "Bonus",
-    "terrainsCanBeFoundOn": ["Grassland"],
+    "terrainsCanBeFoundOn": ["Grassland","Hill"],
     "food": 1,
     "revealedBy": "Gathering",
     "uniques": ["Generated with weight [8] <in [Grassland] tiles>"],
