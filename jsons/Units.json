@@ -1,11 +1,18 @@
 [
 	{
-		"name": "Settler",
+		"name": "Settlers",
 		"unitType": "Civilian",
-		"movement": 2,
-		"cost": 106,
+		"movement": 1,
+		"cost": 30,
 		"uniques": ["Founds a new city <by consuming this unit>", "Excess Food converted to Production when under construction",
 			"Requires at least [2] population"],
-		"hurryCostModifier": 20
 	},
+	{
+		"name": "Clubbers",
+		"unitType" "Blunt",
+		"cost": 15,
+		"movement": 1,
+		"strength": 10,
+		"requiredTech": "Civilization",
+	}		
 ]
