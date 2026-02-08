@@ -44,5 +44,7 @@
           "row": 4,
           "prerequisites": ["Gathering"],
           "quote": "Now, instead of having to walk far distances to get food, we can now grow our own right at home.",
-        },
+        }
+    ]
+  },
 ]
