@@ -20,7 +20,7 @@
   {
     "name": "Wood",
     "resourceType": "Strategic",
-    "terrainsCanBeFoundOn": ["Grassland","Forest"],
+    "terrainsCanBeFoundOn": ["Forest"],
     "production": 1,
     "revealedBy": "Crafting",
     "uniques": ["Generated with weight [1] <in [Forest] tiles>"],
