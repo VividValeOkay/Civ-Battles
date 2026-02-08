@@ -7,7 +7,7 @@
     "revealedBy": "Gathering",
     "improvement": "Plantation"
     "uniques": ["Generated with weight [8] <in [Grassland] tiles>"],
-  }
+  },
   {
     "name": "Oranges",
     "resourceType": "Bonus",
@@ -16,5 +16,13 @@
     "revealedBy": "Gathering",
     "improvement": "Plantation",
     "uniques": ["Generated with weight [8] <in [Grassland] tiles>"],
-  }
+  },
+  {
+    "name": "Wood",
+    "resourceType": "Strategic",
+    "terrainsCanBeFoundOn": ["Gradsland","Forest"],
+    "production": 1,
+    "revealedBy": "Crafting",
+    "uniques": ["Generated with weight [1] <in [Forest] tiles>"],
+  },
 ]
