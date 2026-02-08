@@ -5,6 +5,7 @@
     "terrainsCanBeFoundOn": ["Grassland","Forest"],
     "food": 1,
     "revealedBy": "Gathering",
+    "improvement": "Plantation"
     "uniques": ["Generated with weight [8] <in [Grassland] tiles>"],
   }
   {
@@ -13,6 +14,7 @@
     "terrainsCanBeFoundOn": ["Grassland","Hill"],
     "food": 1,
     "revealedBy": "Gathering",
+    "improvement": "Plantation",
     "uniques": ["Generated with weight [8] <in [Grassland] tiles>"],
   }
 ]
