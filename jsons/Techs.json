@@ -21,10 +21,28 @@
     "techs": [
         {
           "name": "Gathering",
-          "row": 1,
+          "row": 3,
           "prerequisites": ["Civilization"],
           "quote": "With our understanding in gathering, we can now discover more foods to support our populus",
         },
     ]
-  }
+  },
+  {
+    "columnNumber": 2,
+    "era": "Tech Tree",
+    "techCost": 200,
+    "buildingCost": 100,
+    "techs": [
+        {
+          "name": "Irrigation",
+          "row": 2,
+          "prerequisites": ["Gathering"],
+          "quote": "With our understanding in gathering, we can now discover more foods to support our populus",
+        },
+        {
+          "name": "Agriculture",
+          "row": 4,
+          "prerequisites": ["Gathering"],
+          "quote": "Now, instead of having to walk far distances to get food, we can now grow our own right at home.",
+        },
 ]
