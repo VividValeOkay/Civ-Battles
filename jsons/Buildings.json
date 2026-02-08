@@ -2,10 +2,10 @@
 	{
 		"name": "Palace",
 		"isNationalWonder": true,
-    "gold": 1,
+        "gold": 1,
 		"cityStrength": 2.5,
 		"cost": 0,
-		"uniques": ["Indicates the capital city"]
+		"uniques": ["Provides [1] [Wood]","Indicates the capital city"]
 	},
 	{
 		"name": "Library",
