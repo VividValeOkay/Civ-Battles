@@ -23,6 +23,6 @@
     "terrainsCanBeFoundOn": ["Forest"],
     "production": 1,
     "revealedBy": "Crafting",
-    "uniques": ["Generated with weight [1] <in [Forest] tiles>"],
+    "uniques": ["Generated with weight [99] <in [Forest] tiles>"],
   },
 ]
