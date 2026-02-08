@@ -22,8 +22,8 @@
         {
           "name": "Gathering",
           "row": 1,
+          "prerequisites": ["Civilization"],
           "quote": "With our understanding in gathering, we can now discover more foods to support our populus",
-          "uniques": [""],
         },
     ]
   }
