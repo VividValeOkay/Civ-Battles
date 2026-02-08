@@ -10,5 +10,6 @@
 	{
 		"name": "Library",
 		"science": 2,
+		"cost": 90
 	},
 ]
