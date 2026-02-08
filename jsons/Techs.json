@@ -2,7 +2,7 @@
   {
     "columnNumber": 0,
     "era": "Tech Tree",
-    "techCost": 100,
+    "techCost": 50,
     "buildingCost": 100,
     "techs": [
         {
@@ -16,7 +16,7 @@
   {
     "columnNumber": 1,
     "era": "Tech Tree",
-    "techCost": 100,
+    "techCost": 50,
     "buildingCost": 100,
     "techs": [
         {
