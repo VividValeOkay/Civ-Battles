@@ -7,4 +7,8 @@
 		"cost": 0,
 		"uniques": ["Indicates the capital city"]
 	},
+	{
+		"name": "Library",
+		"science": 2,
+	},
 ]
