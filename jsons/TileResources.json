@@ -7,4 +7,12 @@
     "revealedBy": "Gathering",
     "uniques": ["Generated with weight [8] <in [Grassland] tiles>"],
   }
+  {
+    "name": "Oranges",
+    "resourceType": "Bonus",
+    "terrainsCanBeFoundOn": ["Grassland"],
+    "food": 1,
+    "revealedBy": "Gathering",
+    "uniques": ["Generated with weight [8] <in [Grassland] tiles>"],
+  }
 ]
