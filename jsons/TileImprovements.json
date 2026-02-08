@@ -17,5 +17,14 @@
 		"techRequired": "Calendar",
 		"uniques": ["Can only be built to improve a resource", "Pillaging this improvement yields approximately [+10 Gold]"],
 		"shortcutKey": "P"
-	}
+	},
+	{
+		"name": "Lumber mill",
+		"terrainsCanBeBuiltOn": ["Forest"],
+		"production": 1,
+		"turnsToBuild": 7,
+		"techRequired": "Crafting",
+		"uniques": ["Can only be built to improve a resource","Pillaging this improvement yields approximately [+10 Gold]"],
+		"shortcutKey": "L"
+	},
 ]
