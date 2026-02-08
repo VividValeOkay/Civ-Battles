@@ -5,6 +5,6 @@
     "terrainsCanBeFoundOn": ["Grassland"],
     "food": 1,
     "revealedBy": "Gathering",
-    "uniques": [""],
+    "uniques": ["Generated with weight [8] <in [Grassland] tiles>"],
   }
 ]
