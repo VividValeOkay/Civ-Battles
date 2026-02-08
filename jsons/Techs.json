@@ -6,6 +6,20 @@
     "buildingCost": 100,
     "techs": [
         {
+          "name": "Civilization",
+          "row": 1,
+          "quote": "With our understanding in gathering, we can now discover more foods to support our populus",
+          "uniques": ["Starting tech"],
+        },
+    ]
+  },
+  {
+    "columnNumber": 1,
+    "era": "Tech Tree",
+    "techCost": 100,
+    "buildingCost": 100,
+    "techs": [
+        {
           "name": "Gathering",
           "row": 1,
           "quote": "With our understanding in gathering, we can now discover more foods to support our populus",
