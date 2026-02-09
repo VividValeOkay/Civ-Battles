@@ -31,6 +31,12 @@
           "prerequisites": ["Civilization"],
           "quote": "With our understanding in gathering, we can now discover more foods to support our populus",
         },
+        {
+          "name": "Hunting",
+          "row": 8,
+          "prerequisites": ["Civilization"],
+          "quote": "We chase down animals for their meat and hides. Following them as they run and tiring them out turns out to be an effective tactic...",
+        },
     ]
   },
   {
