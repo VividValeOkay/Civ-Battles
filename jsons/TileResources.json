@@ -17,13 +17,4 @@
     "improvement": "Plantation",
     "uniques": ["Generated with weight [8] <in [Grassland] tiles>"],
   },
-  {
-    "name": "Wood",
-    "resourceType": "Strategic",
-    "terrainsCanBeFoundOn": ["Forest"],
-    "production": 1,
-    "revealedBy": "Crafting",
-    "improvement": "Lumber mill",
-    "uniques": ["Generated on every [1] tiles <in [Forest] tiles>"],
-  },
 ]
