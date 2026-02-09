@@ -17,4 +17,20 @@
     "improvement": "Plantation",
     "uniques": ["Generated with weight [8] <in [Grassland] tiles>"],
   },
+  {
+    "name": "Cattle",
+    "resourceType": "Bonus",
+    "terrainsCanBeFoundOn": ["Grassland"],
+    "food": 1,
+    "revealedBy": "Hunting",
+    "uniques": ["Generated with weight [8] <in [Grassland] tiles>"],
+  },
+  {
+    "name": "Sheep",
+    "resourceType": "Bonus",
+    "terrainsCanBeFoundOn": ["Grassland","Hill"],
+    "food": 1,
+    "revealedBy": "Hunting",
+    "uniques": ["Generated with weight [8] <in [Grassland] tiles>"],
+  },
 ]
