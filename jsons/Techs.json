@@ -37,6 +37,18 @@
           "prerequisites": ["Civilization"],
           "quote": "We chase down animals for their meat and hides. Following them as they run and tiring them out turns out to be an effective tactic...",
         },
+        {
+          "name": "Mining",
+          "row": 10,
+          "prerequisites": ["Civilization"],
+          "quote": "We dig into the earth and make her hollow.",
+        },
+        {
+          "name": "Writing",
+          "row": 12,
+          "prerequisites": ["Civilization"],
+          "quote": "We dig into the earth and make her hollow.",
+        },
     ]
   },
   {
