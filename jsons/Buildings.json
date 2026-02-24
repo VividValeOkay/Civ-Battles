@@ -5,7 +5,7 @@
         "gold": 1,
 		"cityStrength": 2.5,
 		"cost": 0,
-		"uniques": ["Provides [1] [Wood]","Indicates the capital city"]
+		"uniques": ["Indicates the capital city"]
 	},
 	{
 		"name": "Library",
