@@ -8,8 +8,9 @@
 		"uniques": ["Indicates the capital city"]
 	},
 	{
-		"name": "Library",
-		"science": 2,
-		"cost": 90
-	},
+		"name": "Build Windmill",
+		"cost": 10,
+		"requiredTech": "Agriculture"
+		"uniques": ["Creates a [Windmill] improvement on a specific tile"]
+	}
 ]
