@@ -3,16 +3,15 @@
 		"name": "Settlers",
 		"unitType": "Civilian",
 		"movement": 1,
-		"cost": 90,
 		"uniques": ["Founds a new city <by consuming this unit>", "Excess Food converted to Production when under construction",
-			"Requires at least [2] population"],
+			"Requires at least [2] population","Can be purchased for [80] [Gold] [in all cities]"],
 	},
 	{
 		"name": "Clubbers",
 		"unitType": "Blunt",
-		"cost": 50,
 		"movement": 1,
 		"strength": 10,
+		"uniques": ["Can be purchased for [30] [Gold] [in all cities]"],
 		"requiredTech": "Civilization",
 	}		
 ]
