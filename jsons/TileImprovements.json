@@ -6,6 +6,7 @@
 		"techRequired": "Agriculture",
 		"uniques": ["Can also be built on tiles adjacent to fresh water",
 			"[+1 Food] from [Fresh water] tiles",
+			"Can only be built on [Grassland] tiles <in tiles adjacent to [Windmill] tiles>",
             "Pillaging this improvement yields approximately [+18 Gold]"],
 		"shortcutKey": "F"
 	},
