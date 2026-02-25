@@ -10,8 +10,8 @@
 	},
 	{
 		"name": "Build Windmill",
-		"cost": 80,
+		"cost": 140,
 		"requiredTech": "Agriculture"
-		"uniques": ["Creates a [Windmill] improvement on a specific tile","Can only be built <when above [9] [Gold]>"]
+		"uniques": ["Creates a [Windmill] improvement on a specific tile"]
 	}
 ]
