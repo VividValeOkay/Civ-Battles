@@ -4,6 +4,7 @@
 		"terrainsCanBeBuiltOn": ["Grassland"],
 		"food": 3,
 		"techRequired": "Agriculture",
+		"turnsToBuild": 8,
 		"uniques": ["Can also be built on tiles adjacent to fresh water",
 			"[+2 Food] from [Fresh water] tiles",
             "Pillaging this improvement yields approximately [+18 Gold]"],
@@ -23,6 +24,7 @@
 		"food": 2,
 		"gold": 2,
 		"techRequired": "Hunting",
+		"turnsToBuild": 8,
 		"uniques": ["Can only be built to improve a resource", "Pillaging this improvement yields approximately [+10 Gold]"],
 		"shortcutKey": "C"
 	},
