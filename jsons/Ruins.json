@@ -3,7 +3,7 @@
         "name": "Tribal settlement willing to join us.",
         "notification": "A [Settler] has joined us!",
         "uniques": [
-            "Free [Settlers] found in the ruins",
+            "Free [Settlers] appears",
             "Play [wagon] sound"
         ],
         "excludedDifficulties": ["Deity"]
