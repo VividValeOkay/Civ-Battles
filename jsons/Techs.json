@@ -27,7 +27,7 @@
           "quote": "With our understanding in gathering, we can now discover more foods to support our populus",
         },
         {
-          "name": "Crafting",
+          "name": "Riding",
           "row": 6,
           "prerequisites": ["Civilization"],
           "quote": "With our understanding in gathering, we can now discover more foods to support our populus",
@@ -40,13 +40,13 @@
           "quote": "We chase down animals for their meat and hides. Following them as they run and tiring them out turns out to be an effective tactic...",
         },
         {
-          "name": "Mining",
+          "name": "Climbing",
           "row": 10,
           "prerequisites": ["Civilization"],
           "quote": "We dig into the earth and make her hollow.",
         },
         {
-          "name": "Writing",
+          "name": "Fishing",
           "row": 12,
           "prerequisites": ["Civilization"],
           "quote": "We dig into the earth and make her hollow.",
@@ -56,7 +56,7 @@
   {
     "columnNumber": 2,
     "era": "Tech Tree",
-    "techCost": 200,
+    "techCost": 300,
     "buildingCost": 100,
     "techs": [
         {
