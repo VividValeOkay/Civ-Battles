@@ -43,7 +43,7 @@
           "name": "Climbing",
           "row": 10,
           "prerequisites": ["Civilization"],
-          "quote": "We dig into the earth and make her hollow.",
+          "quote": "We can climb the greatest of peaks, ever so closer to God.",
         },
         {
           "name": "Fishing",
@@ -70,7 +70,25 @@
           "row": 4,
           "prerequisites": ["Gathering"],
           "quote": "Now, instead of having to walk far distances to get food, we can now grow our own right at home.",
-        }
+        },
+        {
+          "name": "Archery",
+          "row": 8,
+          "prerequisites": ["Hunting"],
+          "quote": "Swords, spears, battle axes can't compare to the range of a bow.",
+        },
+        {
+          "name": "Mining",
+          "row": 9,
+          "prerequisites": ["Climbing"],
+          "quote": "We dig into the earth and make her hollow.",
+        },
+        {
+          "name": "Sailing",
+          "row": 11,
+          "prerequisites": ["Fishing"],
+          "quote": "Why learn to swim when we can learn to sail the seas?",
+        },
     ]
   },
 ]
