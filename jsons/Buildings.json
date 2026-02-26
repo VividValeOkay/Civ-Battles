@@ -13,28 +13,26 @@
 		"cost": 140,
 		"requiredTech": "Agriculture"
 		"uniques": ["Creates a [Windmill] improvement on a specific tile",
-		            "Unavailable <when below [20] [Gold]>",
-		            "[-20 Gold]"]
+		            "Unavailable <in cities with less than [2] [Population]>"]
 	},
 	{
 		"name": "Build Farm I",
 		"cost": 60,
 		"requiredTech": "Agriculture"
 		"uniques": ["Creates a [Farm] improvement on a specific tile",
-		            "Unavailable <when below [40] [Gold]>",
-		            "[-40 Gold]"]
+		            "Unavailable <in cities with less than [2] [Population]>"]
 	},
 	{
 		"name": "Build Farm II",
 		"cost": 60,
 		"requiredTech": "Agriculture"
-		"uniques": ["Creates a [Farm] improvement on a specific tile","Only available <if [Build Farm I] is constructed>","Unavailable <when below [60] [Gold]>","[-60 Gold]"]
+		"uniques": ["Creates a [Farm] improvement on a specific tile","Only available <if [Build Farm I] is constructed>","Unavailable <in cities with less than [4] [Population]>"]
 	},
 	{
 		"name": "Build Farm III",
 		"cost": 60,
 		"requiredTech": "Agriculture"
-		"uniques": ["Creates a [Farm] improvement on a specific tile","Only available <if [Build Farm II] is constructed>","Unavailable <when below [80] [Gold]>","[-80 Gold]"]
+		"uniques": ["Creates a [Farm] improvement on a specific tile","Only available <if [Build Farm II] is constructed>","Unavailable <in cities with less than [8] [Population]>"]
 	},
 	{
 		"name": "Build Plantation I",
