@@ -24,13 +24,13 @@
 		"name": "Build Farm II",
 		"cost": 60,
 		"requiredTech": "Agriculture"
-		"uniques": ["Creates a [Farm] improvement on a specific tile"]
+		"uniques": ["Creates a [Farm] improvement on a specific tile","Only available <if [Build Farm I] is constructed>"]
 	},
 	{
 		"name": "Build Farm III",
 		"cost": 60,
 		"requiredTech": "Agriculture"
-		"uniques": ["Creates a [Farm] improvement on a specific tile"]
+		"uniques": ["Creates a [Farm] improvement on a specific tile","Only available <if [Build Farm II] is constructed>"]
 	},
 	{
 		"name": "Build Plantation I",
