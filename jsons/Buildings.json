@@ -31,5 +31,11 @@
 		"cost": 60,
 		"requiredTech": "Agriculture"
 		"uniques": ["Creates a [Farm] improvement on a specific tile"]
-	}
+	},
+	{
+		"name": "Build Plantation I",
+		"cost": 60,
+		"requiredTech": "Calendar"
+		"uniques": ["Creates a [Plantation] improvement on a specific tile"]
+	},
 ]
