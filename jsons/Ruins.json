@@ -9,6 +9,42 @@
         "excludedDifficulties": ["Deity"]
     },
     {
+        "name": "New Policy 3",
+        "notification": "New Policy Available!",
+        "uniques": [
+            "Free Social Policy",
+            "Play [wagon] sound"
+        ],
+        "excludedDifficulties": ["Deity"]
+    },
+    {
+        "name": "New Policy 4",
+        "notification": "New Policy Available!",
+        "uniques": [
+            "Free Social Policy",
+            "Play [wagon] sound"
+        ],
+        "excludedDifficulties": ["Deity"]
+    },
+    {
+        "name": "New Policy 5",
+        "notification": "New Policy Available!",
+        "uniques": [
+            "Free Social Policy",
+            "Play [wagon] sound"
+        ],
+        "excludedDifficulties": ["Deity"]
+    },
+    {
+        "name": "New Policy 6",
+        "notification": "New Policy Available!",
+        "uniques": [
+            "Free Social Policy",
+            "Play [wagon] sound"
+        ],
+        "excludedDifficulties": ["Deity"]
+    },
+    {
         "name": "New Policy 2",
         "notification": "New Policy Available!",
         "uniques": [
