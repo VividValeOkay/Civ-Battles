@@ -3,8 +3,48 @@
 		"name": "Civilization Expansion",
 		"era": "Tech Tree",
 		"policies": [
+            {
+                "name": "Expansion I",
+                "uniques": [
+                    "Free [Settlers] appears",
+                ],
+                "row": 1,
+                "column": 1
+            },
+            {
+                "name": "Expansion II",
+                "uniques": [
+                    "Free [Settlers] appears",
+                ],
+                "row": 3,
+                "column": 2
+            },
+            {
+                "name": "Expansion III",
+                "uniques": [
+                    "Free [Settlers] appears",
+                ],
+                "row": 6,
+                "column": 3
+            },
+            {
+                "name": "Expansion IV",
+                "uniques": [
+                    "Free [Settlers] appears",
+                ],
+                "row": 8,
+                "column": 4
+            },
+            {
+                "name": "Expansion V",
+                "uniques": [
+                    "Free [Settlers] appears",
+                ],
+                "row": 10,
+                "column": 5
+            },
 			{
-				"name": "No Policy Complete"
+				"name": "Civilization Expansion Complete"
 			}
 		]
 	}
