@@ -3,9 +3,9 @@
 		"name": "Settlers",
 		"unitType": "Civilian",
 		"movement": 1,
-		"cost": 80,
+		"cost": 300,
 		"uniques": ["Founds a new city <by consuming this unit>", "Excess Food converted to Production when under construction",
-			"Requires at least [99] population"],
+			"Requires at least [10] population"],
 	},
     {
 		"name": "Hunter",
@@ -20,7 +20,7 @@
 		"unitType": "Blunt",
 		"movement": 1,
 		"strength": 10,
-        "cost": 30,
+        "cost": 80,
 		"uniques": ["Remove [Oranges] resources from this tile"],
 		"requiredTech": "Civilization",
 	}		
