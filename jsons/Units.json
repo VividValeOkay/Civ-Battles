@@ -17,12 +17,19 @@
 	},
 
 	{
-		"name": "Clubbers",
+		"name": "Warrior",
 		"unitType": "Blunt",
 		"movement": 1,
 		"strength": 10,
         "cost": 80,
-		"uniques": ["Remove [Oranges] resources from this tile"],
 		"requiredTech": "Civilization",
-	}		
+	},
+	{
+		"name": "Horseman",
+		"unitType": "Blunt",
+		"movement": 2,
+		"strength": 10,
+        "cost": 90,
+		"requiredTech": "Riding",
+	}
 ]
