@@ -1,0 +1,11 @@
+[
+    {
+        "name": "squatters wishing to settle under your rule",
+        "notification": "A [Settler] has joined us!",
+        "uniques": [
+            "Free [Settler] found in the ruins", "Unavailable <on [Prince] difficulty or higher>",
+            "Play [wagon] sound"
+        ],
+        "excludedDifficulties": ["Deity"]
+    }
+]
