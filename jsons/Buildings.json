@@ -6,7 +6,7 @@
 		"science": 5,
 		"cityStrength": 2.5,
 		"cost": 0,
-		"uniques": ["Indicates the capital city"]
+		"uniques": ["Indicates the capital city","Instantly provides [1] [Building Material] <every [1] turns>"]
 	},
 	{
 		"name": "Build Windmill",
