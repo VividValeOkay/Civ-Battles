@@ -4,31 +4,25 @@
     "resourceType": "Bonus",
     "terrainsCanBeFoundOn": ["Grassland","Forest"],
     "improvement": "Plantation"
-    "uniques": ["Generated with weight [8] <in [Grassland] tiles>"],
+    "uniques": ["Generated with weight [4] <in [Grassland] tiles>"],
   },
   {
     "name": "Oranges",
     "resourceType": "Bonus",
     "terrainsCanBeFoundOn": ["Grassland","Hill"],
     "improvement": "Plantation",
-    "uniques": ["Generated with weight [8] <in [Grassland] tiles>"],
+    "uniques": ["Generated with weight [4] <in [Grassland] tiles>"],
   },
   {
     "name": "Cattle",
     "resourceType": "Bonus",
     "terrainsCanBeFoundOn": ["Grassland"],
-    "uniques": ["Generated with weight [8] <in [Grassland] tiles>"],
+    "uniques": ["Generated with weight [4] <in [Grassland] tiles>"],
   },
   {
     "name": "Sheep",
     "resourceType": "Bonus",
     "terrainsCanBeFoundOn": ["Grassland","Hill"],
-    "uniques": ["Generated with weight [8] <in [Grassland] tiles>"],
-  },
-// Building Materials 
-  {
-    "name": "Building Material",
-    "resourceType": "Strategic",
-    "uniques": ["Cannot be traded"]
+    "uniques": ["Generated with weight [4] <in [Grassland] tiles>"],
   }
 ]
