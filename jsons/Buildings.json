@@ -9,16 +9,9 @@
 		"uniques": ["Indicates the capital city","Provides [1] [Building Material] <every [1] turns>"]
 	},
 	{
-		"name": "Build Windmill",
-		"cost": 140,
-		"requiredTech": "Agriculture"
-		"uniques": ["Creates a [Windmill] improvement on a specific tile",
-		            "Unavailable <in cities with less than [2] [Population]>"]
-	},
-	{
 		"name": "Build Plantation I",
 		"cost": 60,
 		"requiredTech": "Gathering"
 		"uniques": ["Creates a [Plantation] improvement on a specific tile"]
-	},
+	}
 ]
