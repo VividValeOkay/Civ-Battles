@@ -2,7 +2,7 @@
 	{
 		"name": "Farm",
 		"terrainsCanBeBuiltOn": ["Grassland"],
-		"food": 1,
+		"food": 3,
 		"techRequired": "Agriculture",
 		"uniques": ["Can also be built on tiles adjacent to fresh water",
 			"[+1 Food] from [Fresh water] tiles",
@@ -13,7 +13,7 @@
 	{
 		"name": "Windmill",
 		"terrainsCanBeBuiltOn": ["Grassland"],
-		"food": 2,
+		"food": 4,
 		"techRequired": "Agriculture",
 		"uniques": ["Can also be built on tiles adjacent to fresh water",
             "Pillaging this improvement yields approximately [+18 Gold]"],
@@ -21,7 +21,8 @@
 	{
 		"name": "Plantation",
 		"turnsToBuild": 6,
-		"gold": 1,
+		"food": 2,
+		"gold": 2,
 		"techRequired": "Calendar",
 		"uniques": ["Can only be built to improve a resource", "Pillaging this improvement yields approximately [+10 Gold]"],
 		"shortcutKey": "P"
