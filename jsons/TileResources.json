@@ -17,12 +17,14 @@
     "name": "Cattle",
     "resourceType": "Bonus",
     "terrainsCanBeFoundOn": ["Grassland"],
+    "improvement": "Camp",
     "uniques": ["Generated with weight [4] <in [Grassland] tiles>"],
   },
   {
     "name": "Sheep",
     "resourceType": "Bonus",
     "terrainsCanBeFoundOn": ["Grassland","Hill"],
+    "improvement": "Camp",
     "uniques": ["Generated with weight [4] <in [Grassland] tiles>"],
   }
 ]
