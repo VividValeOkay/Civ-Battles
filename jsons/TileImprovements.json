@@ -10,14 +10,6 @@
 		"shortcutKey": "F"
 	},
 	{
-		"name": "Windmill",
-		"terrainsCanBeBuiltOn": ["Grassland"],
-		"food": 4,
-		"techRequired": "Agriculture",
-		"uniques": ["Can also be built on tiles adjacent to fresh water",
-            "Pillaging this improvement yields approximately [+18 Gold]"],
-	},
-	{
 		"name": "Plantation",
 		"turnsToBuild": 6,
 		"food": 2,
