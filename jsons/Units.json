@@ -13,7 +13,7 @@
 		"movement": 1,
 		"cost": 60,
 		"requiredTech": "Hunting",
-		"uniques": ["Can instantly construct a [Camp] improvement","[This Unit] is destroyed <upon building a [Improvement] improvement>"],
+		"uniques": ["Can instantly construct a [Camp] improvement"],
 	},
     {
 		"name": "Farmer",
@@ -21,7 +21,7 @@
 		"movement": 1,
 		"cost": 90,
 		"requiredTech": "Agriculture",
-		"uniques": ["Can instantly construct a [Camp] improvement","[This Unit] is destroyed <upon building a [Improvement] improvement>"],
+		"uniques": ["Can instantly construct a [Camp] improvement"],
 	},
 	{
 		"name": "Clubbers",
