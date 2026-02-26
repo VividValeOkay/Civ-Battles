@@ -1,3 +1,6 @@
 {
     "isBaseRuleset": true,
+    "constants": {
+        "ancientRuinCountMultiplier": 0.08,
+    }
 }
