@@ -13,5 +13,23 @@
 		"cost": 140,
 		"requiredTech": "Agriculture"
 		"uniques": ["Creates a [Windmill] improvement on a specific tile"]
+	},
+	{
+		"name": "Build Farm I",
+		"cost": 60,
+		"requiredTech": "Agriculture"
+		"uniques": ["Creates a [Farm] improvement on a specific tile"]
+	},
+	{
+		"name": "Build Farm II",
+		"cost": 60,
+		"requiredTech": "Agriculture"
+		"uniques": ["Creates a [Farm] improvement on a specific tile"]
+	},
+	{
+		"name": "Build Farm III",
+		"cost": 60,
+		"requiredTech": "Agriculture"
+		"uniques": ["Creates a [Farm] improvement on a specific tile"]
 	}
 ]
