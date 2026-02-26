@@ -12,6 +12,7 @@
 		"unitType": "Civilian",
 		"movement": 1,
 		"cost": 60,
+		"requiredTech": "Hunting",
 		"uniques": ["Can instantly construct a [Camp] improvement"],
 	},
 	{
