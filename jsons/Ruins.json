@@ -1,9 +1,9 @@
 [
     {
-        "name": "Tribal settlement willing to join us.",
-        "notification": "A [Settler] has joined us!",
+        "name": "New Policy",
+        "notification": "New Policy Available!",
         "uniques": [
-            "Free [Settlers] appears",
+            "Free Social Policy",
             "Play [wagon] sound"
         ],
         "excludedDifficulties": ["Deity"]
