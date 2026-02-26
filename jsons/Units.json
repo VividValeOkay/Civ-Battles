@@ -5,7 +5,7 @@
 		"movement": 1,
 		"cost": 80,
 		"uniques": ["Founds a new city <by consuming this unit>", "Excess Food converted to Production when under construction",
-			"Requires at least [2] population"],
+			"Requires at least [2] population","Unavailable"],
 	},
 	{
 		"name": "Clubbers",
