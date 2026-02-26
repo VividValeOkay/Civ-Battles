@@ -25,4 +25,9 @@
     "terrainsCanBeFoundOn": ["Grassland","Hill"],
     "uniques": ["Generated with weight [8] <in [Grassland] tiles>"],
   },
+// Building Materials 
+  {
+    "name": "Building Material",
+    "resourceType": "Strategic",
+  }
 ]
