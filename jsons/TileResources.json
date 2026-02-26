@@ -29,6 +29,6 @@
   {
     "name": "Building Material",
     "resourceType": "Strategic",
-    "uniques": ["Stockpiled"]
+    "uniques": ["Stockpiled","Cannot be traded"]
   }
 ]
