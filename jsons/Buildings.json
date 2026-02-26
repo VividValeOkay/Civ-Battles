@@ -16,28 +16,9 @@
 		            "Unavailable <in cities with less than [2] [Population]>"]
 	},
 	{
-		"name": "Build Farm I",
-		"cost": 60,
-		"requiredTech": "Agriculture"
-		"uniques": ["Creates a [Farm] improvement on a specific tile",
-		            "Unavailable <in cities with less than [2] [Population]>"]
-	},
-	{
-		"name": "Build Farm II",
-		"cost": 60,
-		"requiredTech": "Agriculture"
-		"uniques": ["Creates a [Farm] improvement on a specific tile","Only available <if [Build Farm I] is constructed>","Unavailable <in cities with less than [4] [Population]>"]
-	},
-	{
-		"name": "Build Farm III",
-		"cost": 60,
-		"requiredTech": "Agriculture"
-		"uniques": ["Creates a [Farm] improvement on a specific tile","Only available <if [Build Farm II] is constructed>","Unavailable <in cities with less than [8] [Population]>"]
-	},
-	{
 		"name": "Build Plantation I",
 		"cost": 60,
-		"requiredTech": "Calendar"
+		"requiredTech": "Gathering"
 		"uniques": ["Creates a [Plantation] improvement on a specific tile"]
 	},
 ]
