@@ -23,7 +23,7 @@
           "name": "Gathering",
           "row": 3,
           "prerequisites": ["Civilization"],
-          "uniques": ["[+1 Food] <in [Apples] tiles> <in [in all cities] cities>","[+1 Food] <in [Oranges] tiles> <in [in all cities] cities>"],
+          "uniques": ["[+1 Food] from [Apples] tiles [in all cities]","[+1 Food] from [Oranges] tiles [in all cities]"],
           "quote": "With our understanding in gathering, we can now discover more foods to support our populus",
         },
         {
@@ -36,7 +36,7 @@
           "name": "Hunting",
           "row": 8,
           "prerequisites": ["Civilization"],
-          "uniques": ["[+1 Food] <in [Cattle] tiles> <in [in all cities] cities>","[+1 Food] <in [Sheep] tiles> <in [in all cities] cities>"],
+          "uniques": ["[+1 Food] from [Cattle] tiles [in all cities]","[+1 Food] from [Sheep] tiles [in all cities]"],
           "quote": "We chase down animals for their meat and hides. Following them as they run and tiring them out turns out to be an effective tactic...",
         },
         {
