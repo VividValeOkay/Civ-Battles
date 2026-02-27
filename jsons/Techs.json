@@ -79,7 +79,7 @@
         },
         {
           "name": "Archery",
-          "row": 7,
+          "row": 9,
           "prerequisites": ["Hunting"],
           "quote": "Swords, spears, battle axes can't compare to the range of a bow.",
         },
