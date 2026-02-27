@@ -72,7 +72,7 @@
           "quote": "Now, instead of having to walk far distances to get food, we can now grow our own right at home.",
         },
         {
-          "name": "Wheel",
+          "name": "The Wheel",
           "row": 7,
           "prerequisites": ["Riding"],
           "quote": "We put wheels on a horse, now we are getting somewhere.",
@@ -85,13 +85,13 @@
         },
         {
           "name": "Construction",
-          "row": 11,
+          "row": 14,
           "prerequisites": ["Hunting"],
           "quote": "With better building materials, we shall make houses larger; more sturdy and strong.",
         },
         {
           "name": "Iron Working",
-          "row": 14,
+          "row": 16,
           "prerequisites": ["Mining"],
           "quote": "We dig into the earth and make her hollow.",
         },
