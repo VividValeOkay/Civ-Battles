@@ -26,5 +26,12 @@
     "terrainsCanBeFoundOn": ["Grassland","Hill"],
     "improvement": "Camp",
     "uniques": ["Generated with weight [4] <in [Grassland] tiles>"],
-  }
+  },
+  {
+    "name": "Stone",
+    "resourceType": "Bonus",
+    "terrainsCanBeFoundOn": ["Hill"],
+    "improvement": "Mine"
+    "uniques": ["Generated with weight [4] <in [Grassland] tiles>"],
+  },
 ]
