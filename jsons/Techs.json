@@ -72,6 +72,12 @@
           "quote": "Now, instead of having to walk far distances to get food, we can now grow our own right at home.",
         },
         {
+          "name": "Wheel",
+          "row": 5,
+          "prerequisites": ["Riding"],
+          "quote": "We put wheels on a horse, now we are getting somewhere.",
+        },
+        {
           "name": "Archery",
           "row": 7,
           "prerequisites": ["Hunting"],
