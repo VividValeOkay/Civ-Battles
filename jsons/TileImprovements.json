@@ -28,6 +28,15 @@
 		"uniques": ["Can only be built to improve a resource", "Pillaging this improvement yields approximately [+10 Gold]"],
 		"shortcutKey": "C"
 	},
+	{
+		"name": "Mine",
+		"production": 2,
+		"gold": 1,
+		"techRequired": "Mining",
+		"turnsToBuild": 8,
+		"uniques": ["Can only be built to improve a resource", "Pillaging this improvement yields approximately [+10 Gold]"],
+		"shortcutKey": "C"
+	},
 	// Tribes
 	{
 		"name": "Ancient ruins",
