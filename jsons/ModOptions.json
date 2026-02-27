@@ -1,8 +1,8 @@
 {
     "isBaseRuleset": true,
     "constants": {
-        "ancientRuinCountMultiplier": 0.08,
-        "cityStrengthBase": 0.5,
+        "ancientRuinCountMultiplier": 0.07,
+        "cityStrengthBase": 1.0,
         "cityStrengthPerPop": 0,
         "cityStrengthFromTechsExponent": 0,
         "cityStrengthFromTechsFullMultiplier": 0,
