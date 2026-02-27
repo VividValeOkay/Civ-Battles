@@ -40,5 +40,15 @@
         "cost": 90,
 		"requiredTech": "Riding",
 		"uniques": ["[-50]% Strength <vs [Blunt] units>","Can move after attacking"],
+	},
+	{
+		"name": "Archer",
+		"unitType": "Ranger",
+		"movement": 1,
+		"strength": 7,
+		"rangedStrength": 10,
+		"range": 2,
+        "cost": 80,
+		"requiredTech": "Archery",
 	}
 ]
