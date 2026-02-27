@@ -84,11 +84,10 @@
           "quote": "Swords, spears, battle axes can't compare to the range of a bow.",
         },
         {
-          "name": "Hunting",
+          "name": "Construction",
           "row": 11,
-          "prerequisites": ["Civilization"],
-          "uniques": ["[+2 Food] from [Cattle] tiles [in all cities]","[+2 Food] from [Sheep] tiles [in all cities]"],
-          "quote": "We chase down animals for their meat and hides. Following them as they run and tiring them out turns out to be an effective tactic...",
+          "prerequisites": ["Hunting"],
+          "quote": "With better building materials, we shall make houses larger; more sturdy and strong.",
         },
         {
           "name": "Iron Working",
