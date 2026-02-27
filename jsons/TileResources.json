@@ -33,5 +33,12 @@
     "terrainsCanBeFoundOn": ["Hill"],
     "improvement": "Mine"
     "uniques": ["Generated on every [5] tiles <in [Hill] tiles>"],
+  },
+  {
+    "name": "Fish",
+    "resourceType": "Bonus",
+    "terrainsCanBeFoundOn": ["Coast"],
+    "improvement": "Mine"
+    "uniques": ["Generated on every [9] tiles <in [Coast] tiles>"],
   }
 ]
