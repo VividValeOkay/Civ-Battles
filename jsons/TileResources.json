@@ -32,6 +32,6 @@
     "resourceType": "Bonus",
     "terrainsCanBeFoundOn": ["Hill"],
     "improvement": "Mine"
-    "uniques": ["Generated with weight [4] <in [Grassland] tiles>"],
-  },
+    "uniques": ["Generated on every [5] tiles <in [Hill] tiles>"],
+  }
 ]
