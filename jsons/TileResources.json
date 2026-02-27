@@ -38,6 +38,7 @@
     "name": "Metal",
     "resourceType": "Bonus",
     "terrainsCanBeFoundOn": ["Hill"],
+		"improvementStats": {"production": 2, "gold": 2,},
     "improvement": "Mine"
     "uniques": ["Generated on every [9] tiles <in [Hill] tiles>"],
   },
