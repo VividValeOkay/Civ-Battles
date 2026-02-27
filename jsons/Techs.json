@@ -91,13 +91,13 @@
         },
         {
           "name": "Iron Working",
-          "row": 16,
+          "row": 17,
           "prerequisites": ["Mining"],
           "quote": "We dig into the earth and make her hollow.",
         },
         {
           "name": "Sailing",
-          "row": 18,
+          "row": 19,
           "prerequisites": ["Fishing"],
           "quote": "Why learn to swim when we can learn to sail the seas?",
         },
