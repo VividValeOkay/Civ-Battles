@@ -40,7 +40,7 @@
           "quote": "We chase down animals for their meat and hides. Following them as they run and tiring them out turns out to be an effective tactic...",
         },
         {
-          "name": "Climbing",
+          "name": "Mining",
           "row": 10,
           "prerequisites": ["Civilization"],
           "quote": "We can climb the greatest of peaks, ever so closer to God.",
@@ -73,14 +73,14 @@
         },
         {
           "name": "Archery",
-          "row": 8,
+          "row": 7,
           "prerequisites": ["Hunting"],
           "quote": "Swords, spears, battle axes can't compare to the range of a bow.",
         },
         {
-          "name": "Mining",
+          "name": "Iron Working",
           "row": 9,
-          "prerequisites": ["Climbing"],
+          "prerequisites": ["Mining"],
           "quote": "We dig into the earth and make her hollow.",
         },
         {
