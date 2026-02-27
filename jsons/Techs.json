@@ -78,8 +78,14 @@
           "quote": "We put wheels on a horse, now we are getting somewhere.",
         },
         {
-          "name": "Archery",
+          "name": "Theology",
           "row": 9,
+          "prerequisites": ["Riding"],
+          "quote": "We must gather together and pray. We don't know whom pray to, but we must.",
+        },
+        {
+          "name": "Archery",
+          "row": 10,
           "prerequisites": ["Hunting"],
           "quote": "Swords, spears, battle axes can't compare to the range of a bow.",
         },
