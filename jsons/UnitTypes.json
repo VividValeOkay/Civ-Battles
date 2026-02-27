@@ -14,5 +14,9 @@
   {
     "name": "Rider",
     "movementType": "Land",
+  },
+  {
+    "name": "Ranger",
+    "movementType": "Land",
   }
 ]
