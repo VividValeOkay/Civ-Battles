@@ -1,8 +1,8 @@
 [
 	{
 		//nations
-		"name": "Red Empire",
-		"leaderName": "Ryan",
+		"name": "Chapo",
+		"leaderName": "Liyo",
 
 		"declaringWar": "The demon wants the blood of soldiers!",
 		"attacked": "Oh well, I presume you know what you're doing.",
@@ -15,7 +15,7 @@
 		"outerColor": [204,0,0],
 		"innerColor": [255,255,255],
 		"uniqueName": "Red Team",
-		"cities": ["Red Capital","Red City","Redtown","Red Square","Redville","Reddale","Redton","Redograd","Redcliff","Red Bay","Red Village"],
+		"cities": ["Chapo","Yoli","Sha-Szu","Chagu","Xipo","Shaxi","Licha","Bulipo","Redcliff","Red Bay","Red Village"],
 	},
 	{
 		"name": "Rosum",
