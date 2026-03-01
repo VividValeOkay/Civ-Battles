@@ -56,10 +56,10 @@
 		"name": "Dorjiha",
 		"leaderName": "Laye",
 
-        "declaringWar": "Your continue existence is an embarrassment to all leaders everywhere! YoSianu must be destroyed!",
+        "declaringWar": "Your continue existence is an embarrassment to all leaders everywhere! You must be destroyed!",
 		"attacked": "Curse you! You are beneath me, son of a donkey driver! I will crush you!",
 		"defeated": "You mongrel! Cursed be you! The world will long lament your heinous crime!",
-		"introduction": "Peace be on you! I am Yahia, the great and outstanding sultan of sultans of the great Yellow Sultanate... but I suppose you knew that.",
+		"introduction": "Peace be on you! I am Laye, the great and outstanding king of kings of the great Dorjiha... but I suppose you knew that.",
 		"neutralHello": "Good day to you!",
 		"hateHello": "Ahh... you...",
 		"tradeRequest": "In my endless magnanimity, I am making you this offer. You agree, of course?",
@@ -67,6 +67,6 @@
 		"outerColor": [255,255,0],
 		"innerColor": [255,255,255],
 		"uniqueName": "Yellow Team",
-		"cities": ["Dorjiha","Onmudor","Balamu","Ononla","Ladorke","Hajiha","Muye","Yellowograd","Yellowcliff","Yellow Bay","Yellow Village"],
+		"cities": ["Dorjiha","Onmudor","Balamu","Ononla","Ladorke","Hajiha","Muye","Keghsi","Ghla","Yeon","Mudorji"],
 	},
 ]
