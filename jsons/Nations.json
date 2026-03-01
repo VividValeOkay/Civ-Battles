@@ -2,7 +2,7 @@
 	{
 		//nations
 		"name": "Chapo",
-		"leaderName": "Liyo",
+		"leaderName": "Yogu",
 
 		"declaringWar": "The demon wants the blood of soldiers!",
 		"attacked": "Oh well, I presume you know what you're doing.",
@@ -54,12 +54,12 @@
 	},
 	{
 		"name": "Dorjiha",
-		"leaderName": "Laye",
+		"leaderName": "Muye",
 
         "declaringWar": "Your continue existence is an embarrassment to all leaders everywhere! You must be destroyed!",
 		"attacked": "Curse you! You are beneath me, son of a donkey driver! I will crush you!",
 		"defeated": "You mongrel! Cursed be you! The world will long lament your heinous crime!",
-		"introduction": "Peace be on you! I am Laye, the great and outstanding king of kings of the great Dorjiha... but I suppose you knew that.",
+		"introduction": "Peace be on you! I am Muye, the great and outstanding king of kings of the great Dorjiha... but I suppose you knew that.",
 		"neutralHello": "Good day to you!",
 		"hateHello": "Ahh... you...",
 		"tradeRequest": "In my endless magnanimity, I am making you this offer. You agree, of course?",
@@ -67,6 +67,6 @@
 		"outerColor": [255,255,0],
 		"innerColor": [255,255,255],
 		"uniqueName": "Yellow Team",
-		"cities": ["Dorjiha","Onmudor","Balamu","Ononla","Ladorke","Hajiha","Muye","Keghsi","Ghla","Yeon","Mudorji"],
+		"cities": ["Dorjiha","Onmudor","Balamu","Ononla","Ladorke","Hajiha","Laye","Keghsi","Ghla","Yeon","Mudorji"],
 	},
 ]
