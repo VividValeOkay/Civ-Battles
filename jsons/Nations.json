@@ -42,7 +42,7 @@
 		"attacked": "Traitorous man! The Green peoples will not stand for such wanton abuse and slander - I shall have your balls!",
 		"defeated": "Vile ruler, know you have won this war in name alone. Your cities lie buried and your troops defeated. I have my own victory.",
 		"denounced": "Don't forget who you're dealing with. Arrogant moves can get you in danger.",
-		"introduction": "I am Gregory, King of the Greens. Let no-one underestimate me!",
+		"introduction": "I am Loma, King of the Numa. Let no-one underestimate me!",
 		"tradeRequest": "Let us join our forces together and reap the rewards.",
 		"neutralHello": "Good day.",
 		"hateHello": "Well?",
@@ -50,7 +50,7 @@
 		"outerColor": [0,255,0],
 		"innerColor": [255,255,255],
 		"uniqueName": "Green Team",
-		"cities": ["Numa","Noli","Anoki","Sian","Nolo","Lo No","Ansi","Greenograd","Greencliff","Green Bay","Green Village"],
+		"cities": ["Numa","Noli","Anoki","Sian","Nolo","Lo No","Ansi","Okili","Ma Ma","Li Oki","Vaan"],
 	},
 	{
 		"name": "Yellow Sultanate",
