@@ -18,8 +18,8 @@
 		"cities": ["Red Capital","Red City","Redtown","Red Square","Redville","Reddale","Redton","Redograd","Redcliff","Red Bay","Red Village"],
 	},
 	{
-		"name": "Blue Republic",
-		"leaderName": "Belle",
+		"name": "Rosum",
+		"leaderName": "Ropilo",
 
         "declaringWar": "Your wanton aggression leaves us no choice. Prepare for war!",
 		"attacked": "You have mistaken our love of peace for weakness. You shall regret this!",
@@ -32,7 +32,7 @@
 		"outerColor": [0,0,255],
 		"innerColor": [255,255,255],
 		"uniqueName": "Blue Team",
-		"cities": ["Blue Capital","Blue City","Bluetown","Blue Square","Blueville","Bluedale","Blueton","Blueograd","Bluecliff","Blue Bay","Blue Village"],
+		"cities": ["Rosum","Blue City","Bluetown","Blue Square","Blueville","Bluedale","Blueton","Blueograd","Bluecliff","Blue Bay","Blue Village"],
 	},
 	{
 		"name": "Green Kingdom",
