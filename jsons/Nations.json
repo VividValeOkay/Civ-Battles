@@ -35,8 +35,8 @@
 		"cities": ["Rosum","Molus","Ipnu","Sumsumres","Piicapi","Mamomus","Icareluste","Sumca","Pilo","Lusnusum","Roicapi"],
 	},
 	{
-		"name": "Green Kingdom",
-		"leaderName": "Gregory",
+		"name": "Numa",
+		"leaderName": "Loma",
 
         "declaringWar": "You shall stain this land no longer with your vileness! To arms, my countrymen. We ride to war!",
 		"attacked": "Traitorous man! The Green peoples will not stand for such wanton abuse and slander - I shall have your balls!",
@@ -50,13 +50,13 @@
 		"outerColor": [0,255,0],
 		"innerColor": [255,255,255],
 		"uniqueName": "Green Team",
-		"cities": ["Green Capital","Green City","Greentown","Green Square","Greenville","Greendale","Greenton","Greenograd","Greencliff","Green Bay","Green Village"],
+		"cities": ["Numa","Noli","Anoki","Sian","Nolo","Lo No","Ansi","Greenograd","Greencliff","Green Bay","Green Village"],
 	},
 	{
 		"name": "Yellow Sultanate",
 		"leaderName": "Yahia",
 
-        "declaringWar": "Your continue existence is an embarrassment to all leaders everywhere! You must be destroyed!",
+        "declaringWar": "Your continue existence is an embarrassment to all leaders everywhere! YoSianu must be destroyed!",
 		"attacked": "Curse you! You are beneath me, son of a donkey driver! I will crush you!",
 		"defeated": "You mongrel! Cursed be you! The world will long lament your heinous crime!",
 		"introduction": "Peace be on you! I am Yahia, the great and outstanding sultan of sultans of the great Yellow Sultanate... but I suppose you knew that.",
