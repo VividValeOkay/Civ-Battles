@@ -2,7 +2,8 @@
     "name": "Global Uniques",
     "uniques": [
       "[+1 Gold, +1 Science] per [1] population [in all cities]",
-      "[+2 Culture] [in capital]"
+      "[+2 Culture] [in capital]",
+      "[+1 Culture] per [3] population [in all cities]",
         
       "[-100]% unhappiness from the number of cities",
       "[-100]% Unhappiness from [Population] [in all cities]",
