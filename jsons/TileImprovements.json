@@ -30,7 +30,7 @@
 	},
 	{
 		"name": "Mine",
-		"production": 4,
+		"production": 3,
 		"gold": 1,
 		"techRequired": "Mining",
 		"turnsToBuild": 8,
@@ -67,6 +67,15 @@
 		"techRequired": "Theology",
 		"turnsToBuild": 8,
 		"uniques": ["Pillaging this improvement yields approximately [+15 Gold]"],
+	},
+	{
+		"name": "Lumber mill",
+		"terrainsCanBeBuiltOn": ["Forest"],
+		"production": 3,
+		"turnsToBuild": 8,
+		"techRequired": "Construction",
+		"uniques": ["Pillaging this improvement yields approximately [+10 Gold]"],
+		"shortcutKey": "L"
 	},
 	// Tribes
 	{
