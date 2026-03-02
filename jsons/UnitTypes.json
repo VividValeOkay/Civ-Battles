@@ -18,5 +18,9 @@
   {
     "name": "Ranger",
     "movementType": "Land",
+  },
+  {
+    "name": "Melee Water",
+    "movementType": "Water",
   }
 ]
