@@ -50,5 +50,15 @@
 		"range": 2,
         "cost": 80,
 		"requiredTech": "Archery",
+	},
+	{
+		"name": "Trireme",
+		"unitType": "Melee Water",
+		"movement": 3,
+		"strength": 10,
+		"cost": 90,
+		"requiredTech": "Sailing",
+		"uniques": ["Never appears as a Barbarian unit"],
+		"attackSound": "nonmetalhit"
 	}
 ]
