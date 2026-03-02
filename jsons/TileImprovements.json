@@ -1,7 +1,7 @@
 [
 	{
 		"name": "Farm",
-		"terrainsCanBeBuiltOn": ["Grassland"],
+		"terrainsCanBeBuiltOn": ["Land"],
 		"food": 3,
 		"techRequired": "Agriculture",
 		"turnsToBuild": 8,
@@ -59,6 +59,14 @@
             {"text":"Reduces movement cost to ⅓ with Machinery", "link":"Technology/Machinery"},
             {"text":"Requires Engineering to bridge rivers", "link":"Technology/Engineering"}
         ]
+	},
+	{
+		"name": "Temple",
+		"terrainsCanBeBuiltOn": ["Grassland"],
+		"culture": 2,
+		"techRequired": "Theology",
+		"turnsToBuild": 8,
+		"uniques": ["Pillaging this improvement yields approximately [+15 Gold]"],
 	},
 	// Tribes
 	{
