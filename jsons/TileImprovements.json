@@ -30,7 +30,7 @@
 	},
 	{
 		"name": "Mine",
-		"production": 2,
+		"production": 4,
 		"gold": 1,
 		"techRequired": "Mining",
 		"turnsToBuild": 8,
